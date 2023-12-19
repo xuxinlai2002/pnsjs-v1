@@ -1,0 +1,10 @@
+.DS_Store
+.yarn/*
+./src/node_modules/
+./basic-esm/node_modules/
+./basic-tsnode-esm/node_modules/
+
+.src/dist/
+.env
+
+*.tsbuildinfo

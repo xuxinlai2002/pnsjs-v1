@@ -1,0 +1,12 @@
+{
+  "name": "basic-esm",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@xuxinlai2002/pnsjs": "^1.0.1"
+  }
+}
